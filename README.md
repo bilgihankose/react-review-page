@@ -17,7 +17,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd food-order-app
+  cd react-review-page
 ```
 
 Install dependencies
